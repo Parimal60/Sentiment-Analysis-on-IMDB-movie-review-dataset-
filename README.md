@@ -7,6 +7,6 @@ Sentiment Analysis on IMDB movie review dataset using Glove Embeddings and LSTM
 3) Used Keras tokenizer to map each word from vocabulary to an unique index. 
 4) Used pretrained Glove embeddings of 100 dimension for each word in vocabulary.  
 5) Deep learning network used consists of a Embedding layer to map words to a embedding (Glove in this case), then LSTM layers and finally to get a single proability output a single unit with a sigmoid activation. 
-6) Used binary cross entropy to train the model, used early stopping with obvious Adam optimizer. 
-7) Got the Accuracy of 85.64 % on test review data. 
+6) Used binary cross entropy to train the model with obvious Adam optimizer and used early stopping. 
+7) Got the Accuracy of 86.54 % on test review data. 
   
