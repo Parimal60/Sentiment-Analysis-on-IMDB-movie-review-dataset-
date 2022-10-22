@@ -10,3 +10,4 @@ Sentiment Analysis on IMDB movie review dataset using Glove Embeddings and LSTM
 6) Used binary cross entropy to train the model with obvious Adam optimizer and used early stopping. 
 7) Got the Accuracy of 86.54 % on test review data. 
   
+Note: Used IMDB dataset and Glove vectors from Kaggle dataset collection 
