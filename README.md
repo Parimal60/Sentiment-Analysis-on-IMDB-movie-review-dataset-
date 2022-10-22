@@ -2,7 +2,7 @@
 
 Sentiment Analysis on IMDB movie review dataset using Glove Embeddings and LSTM 
 
-1) Total 50,000 reviews having balanced positive and negative sentiments. 
+1) Total 50,000 IMDB movie reviews having balanced positive and negative sentiments. 
 2) Text processing steps: 1) Converting text into lower case 2) Removing stopwords 3) Removing HTML tags 4) Removing punctuations 
 3) Used Keras tokenizer to map each word from vocabulary to an unique index. 
 4) Used pretrained Glove embeddings of 100 dimension for each word in vocabulary.  
